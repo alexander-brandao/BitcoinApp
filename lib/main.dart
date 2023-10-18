@@ -1,4 +1,4 @@
-import 'package:bitcoin/price_screen.dart';
+import 'package:bitcoin/view/price_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
